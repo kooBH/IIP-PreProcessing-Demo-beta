@@ -1,0 +1,21 @@
+[submodule ".\\algorithm\\OverIVA_Clique_RLS"]
+	path = .\\algorithm\\OverIVA_Clique_RLS
+	url = https://github.com/hido710/OverIVA_Clique_RLS
+[submodule ".\\algorithm\\MLDR"]
+	path = .\\algorithm\\MLDR
+	url = https://github.com/kooBH/MLDR.git
+[submodule "bin"]
+	path = bin
+	url = https://github.com/kooBH/QtBin.git
+[submodule "lib/STFT"]
+	path = lib/STFT
+	url = https://github.com/kooBH/STFT.git
+[submodule "lib/WAV"]
+	path = lib/WAV
+	url = https://github.com/kooBH/WAV.git
+[submodule "lib/RtAudioWrapper"]
+	path = lib/RtAudioWrapper
+	url = https://github.com/kooBH/RtAudioWrapper.git
+[submodule "lib/jsonConfig"]
+	path = lib/jsonConfig
+	url = https://github.com/kooBH/jsonConfig.git
