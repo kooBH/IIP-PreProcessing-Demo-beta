@@ -1,8 +1,8 @@
-[submodule ".\\algorithm\\OverIVA_Clique_RLS"]
-	path = .\\algorithm\\OverIVA_Clique_RLS
+[submodule "algorithm/OverIVA_Clique_RLS"]
+	path = algorithm/OverIVA_Clique_RLS
 	url = https://github.com/hido710/OverIVA_Clique_RLS
-[submodule ".\\algorithm\\MLDR"]
-	path = .\\algorithm\\MLDR
+[submodule "algorithm/MLDR"]
+	path = algorithm/MLDR
 	url = https://github.com/kooBH/MLDR.git
 [submodule "bin"]
 	path = bin
